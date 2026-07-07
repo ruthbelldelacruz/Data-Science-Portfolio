@@ -1,1 +1,1 @@
-# This folder contains my R programming exercises and projects.
+# This folder contains my progression in R programming exercises and projects.
